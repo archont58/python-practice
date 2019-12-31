@@ -9,5 +9,5 @@ def fix_duplicates(array):
     return res
 
 
-chars = ["a", "b", "c", "a", "a", "d", "c"]
+chars = ["a", "b", "c", "a", "a", "d", "c", "a"]
 print(fix_duplicates(chars))
