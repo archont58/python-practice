@@ -10,5 +10,7 @@ In this repo I publish the code created during the study of practice python.
 
 `other/sumstr.py` - Summing the digits of a number.
 
+`other/years_length.py` - The program receives orbital speed and orbit radius. Next it calculates the length of the year on the planet.
+
 ---
 `sort/bubble_sort.py` - Implementing Bubble Sort.
