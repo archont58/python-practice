@@ -16,5 +16,7 @@ In this repo I publish the code created during the study of practice python.
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 Example: Given nums = [2, 7, 11, 15], target = 9, Because nums[0] + nums[1] = 2 + 7 = 9, return [0, 1].
 
+`other/two_min.py` - Output two minimum list values.
+
 ---
 `sort/bubble_sort.py` - Implementing Bubble Sort.
