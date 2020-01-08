@@ -22,5 +22,7 @@ Example: Given nums = [2, 7, 11, 15], target = 9, Because nums[0] + nums[1] = 2 
 
 `other/merge_arrays.py` - Merge two sorted arrays.
 
+`other/remove_repeat_nums.py` - Remove duplicates from unsorted array.
+
 ---
 `sort/bubble_sort.py` - Implementing Bubble Sort.
