@@ -36,3 +36,5 @@ Note: Assume we are dealing with an environment which could only store integers 
 
 ---
 `sort/bubble_sort.py` - Implementing Bubble Sort.
+
+`sort/heap_sort.py` - Implementing Heap Sort.
