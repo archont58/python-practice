@@ -36,6 +36,8 @@ Note: Assume we are dealing with an environment which could only store integers 
 
 `other/roman_to_integer.py` - Convert roman numbers to integers.
 
+`other/longest_prefix.py` - Find the longest common prefix string amongst an array of strings.
+
 ---
 `sort/bubble_sort.py` - Implementing Bubble Sort.
 
