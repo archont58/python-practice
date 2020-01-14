@@ -38,6 +38,15 @@ Note: Assume we are dealing with an environment which could only store integers 
 
 `other/longest_prefix.py` - Find the longest common prefix string amongst an array of strings.
 
+`other/valid_parentheses.py` - Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
+An input string is valid if:
+
+    Open brackets must be closed by the same type of brackets.
+    Open brackets must be closed in the correct order.
+
+Note that an empty string is also considered valid.
+
 ---
 `sort/bubble_sort.py` - Implementing Bubble Sort.
 
