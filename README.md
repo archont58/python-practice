@@ -47,6 +47,8 @@ An input string is valid if:
 
 Note that an empty string is also considered valid.
 
+`other/integer_to_number.py` - Convert integers to roman numbers.
+
 ---
 `sort/bubble_sort.py` - Implementing Bubble Sort.
 
