@@ -55,3 +55,5 @@ Note that an empty string is also considered valid.
 `sort/heap_sort.py` - Implementing Heap Sort.
 
 `sort/insertion_sort.py` - Implementing Insertion Sort.
+
+`sort/selection_sort.py` - Implementing Selection Sort.
