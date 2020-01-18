@@ -1,19 +1,18 @@
 from random import randint
 
+def array_filling(size):
+    nums = []
+    for i in range(size):
+        nums.append(randint(1, 99))
+    return nums
+
 while True:
-    a = input("Enter the length of array: ")
+    length = input("Enter the length of array: ")
     try:
-        a = int(a)
+        length = int(length)
         break
     except ValueError:
-        print("Enter number!")
+        print("Enter the number!")
         continue
 
-m = []
-for i in range(a):
-    m.append(randint(1, 99))
-
-for i in m:
-    print(i, end=' ')
-
-print()
+print(array_filling(length))
