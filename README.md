@@ -2,6 +2,9 @@
 In this repo I publish the code created during the study of practice python.
 
 ---
+`matplotlib/simple_graph.ipynb` - Creating a simple graph using matplotlib.
+
+---
 `other/array_filling.py` - The array is filled with random numbers. The length of the array is entered by the user.
 
 `other/binary_search.py` - Implementation of a simple binary search.
