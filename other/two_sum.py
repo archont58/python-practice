@@ -9,7 +9,7 @@ class Solution:
                 return [h[n], i]
 
 
-nums_list = [2, 13, 10, 17, 11]
-target_sum = 21
+nums_list = [2, 11, 10, 17, 13]
+target_sum = 24
 result = Solution()
 print(result.twoSum(nums_list, target_sum))
