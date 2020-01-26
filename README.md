@@ -19,6 +19,8 @@ In this repo I publish the code created during the study of practice python.
 
 `other/merge_arrays.py` - Merge two sorted arrays.
 
+`other/remove_element` - Remove duplicate items.
+
 `other/remove_repeat_nums.py` - Remove duplicates from unsorted array.
 
 `other/reverse_integer.py` - Given a 32-bit signed integer, reverse digits of an integer.
