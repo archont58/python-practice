@@ -43,6 +43,8 @@ Note: Assume we are dealing with an environment which could only store integers 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 Example: Given nums = [2, 7, 11, 15], target = 9, Because nums[0] + nums[1] = 2 + 7 = 9, return [0, 1].
 
+`other/two_sum_2.py` - Alternative implementation of the problem "Two Sum"
+
 `other/valid_parentheses.py` - Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
 An input string is valid if:
