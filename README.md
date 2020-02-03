@@ -9,6 +9,8 @@ In this repo I publish the code created during the study of practice python.
 
 `other/binary_search.py` - Implementation of a simple binary search.
 
+`other/common_divisor.py` - Finding the greatest common divisor of two numbers.
+
 `other/fix_duplicates.py` - Adding indexes to duplicates in the array.
 
 `other/guess_number.py` - User must guess a random number. If the user gives the wrong answer, the program gives a hint. After the correct answer, the program displays the number of attempts spent.
