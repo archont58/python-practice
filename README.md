@@ -69,4 +69,6 @@ Note that an empty string is also considered valid.
 
 `sort/merge_sort.py` - Implementing Merge Sort.
 
+`sort/quick_sort.py` - Implementing Quick Sort.
+
 `sort/selection_sort.py` - Implementing Selection Sort.
