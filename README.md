@@ -39,6 +39,12 @@ Note: Assume we are dealing with an environment which could only store integers 
 
 `other/roman_to_integer.py` - Convert roman numbers to integers.
 
+`other/strStr.py` - Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+
+_Example 1: Input: haystack = "hello", needle = "ll" Output: 2_
+
+_Example 2: Input: haystack = "aaaaa", needle = "bba" Output: -1_
+
 `other/sumstr.py` - Summing the digits of a number.
 
 `other/two_min.py` - Output two minimum list values.
