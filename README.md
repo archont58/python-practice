@@ -48,6 +48,16 @@ Note: Assume we are dealing with an environment which could only store integers 
 
 `other/roman_to_integer.py` - Convert roman numbers to integers.
 
+`other/searchinsert.py` - Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order. The implementation with using binary search algorithm.
+
+_Example 1: Input: [1, 3, 5, 6], 5. Output: 2_
+
+_Example 2: Input: [1, 3, 5, 6], 2. Output: 1_
+
+_Example 3: Input: [1,3,5,6], 7. Output: 4_
+
+_Example 4: Input: [1, 3, 5, 6], 0. Output: 0_
+
 `other/strStr.py` - Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
 _Example 1: Input: haystack = "hello", needle = "ll" Output: 2_
