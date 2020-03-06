@@ -58,6 +58,8 @@ _Example 3: Input: [1,3,5,6], 7. Output: 4_
 
 _Example 4: Input: [1, 3, 5, 6], 0. Output: 0_
 
+`other/searchinsert.py` - Alternative implementation without using binary search algorithm.
+
 `other/strStr.py` - Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
 _Example 1: Input: haystack = "hello", needle = "ll" Output: 2_
