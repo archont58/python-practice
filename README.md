@@ -66,6 +66,8 @@ _Example 1: Input: haystack = "hello", needle = "ll" Output: 2_
 
 _Example 2: Input: haystack = "aaaaa", needle = "bba" Output: -1_
 
+`other/sum_and_max_num_array.py` - Finding maximum number in array and sum of numbers in array with using the recursive algorithm.
+
 `other/sumstr.py` - Summing the digits of a number.
 
 `other/two_min.py` - Output two minimum list values.
