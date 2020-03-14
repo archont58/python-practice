@@ -100,4 +100,6 @@ Note that an empty string is also considered valid.
 
 `sort/quick_sort.py` - Implementing Quick Sort.
 
+`sort/quick_sort_simple.py` - Implementing Simple Quick Sort.
+
 `sort/selection_sort.py` - Implementing Selection Sort.
