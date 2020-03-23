@@ -100,16 +100,18 @@ Note that an empty string is also considered valid.
 `other/years_length.py` - The program receives orbital speed and orbit radius. Next it calculates the length of the year on the planet.
 
 ---
-`sort/bubble_sort.py` - Implementing Bubble Sort.
+`sort/binarytree.py` - Implementation BinaryTree.
 
-`sort/heap_sort.py` - Implementing Heap Sort.
+`sort/bubble_sort.py` - Implementation Bubble Sort.
 
-`sort/insertion_sort.py` - Implementing Insertion Sort.
+`sort/heap_sort.py` - Implementation Heap Sort.
 
-`sort/merge_sort.py` - Implementing Merge Sort.
+`sort/insertion_sort.py` - Implementation Insertion Sort.
 
-`sort/quick_sort.py` - Implementing Quick Sort.
+`sort/merge_sort.py` - Implementation Merge Sort.
 
-`sort/quick_sort_simple.py` - Implementing Simple Quick Sort.
+`sort/quick_sort.py` - ImplementationQuick Sort.
 
-`sort/selection_sort.py` - Implementing Selection Sort.
+`sort/quick_sort_simple.py` - Implementation Simple Quick Sort.
+
+`sort/selection_sort.py` - Implementation Selection Sort.
